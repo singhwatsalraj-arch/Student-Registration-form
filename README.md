@@ -1,7 +1,7 @@
 **live website** https://singhwatsalraj-arch.github.io/Student-Registration-form/
 # 🎓 Student Registration Form
 
-# 🎓 Student Registration Form
+
 
 A simple and user-friendly Student Registration Form built using HTML, CSS, and JavaScript.
 
